@@ -50,6 +50,7 @@ body{
     width: 100%;
     display: flex;
     justify-content: space-around;
+    margin-left: -80px;
 }
 
 .h12{
@@ -89,36 +90,33 @@ body{
     top: 410px;
 }
 
-.img3{
-    margin-top: -25px;
-}
-
 .left{
     width: 471px;
     height: 265px;
-    margin-left: 210px;
+    margin-left: -25px;
     margin-top: 70px;
 }
 
 .photo1{
     width: 129px;
     height: 129px;
-    margin-right: 900px;
+    margin-left: -715px;
+    margin-top: -24px;
 }
 
 .photo2{
     width: 178px;
     height: 178px;
-    margin-left: 530px;
-    margin-top: 290px;
+    margin-left: -200px;
+    margin-top: 280px;
 }
 
 .photo3{
     position: absolute;
     width: 754px;
     height: 512px;
-    right: 270px;
-    top: 116px;
+    left: 800px;
+    top: 116px;    
 }
 
 .div3{
@@ -190,7 +188,7 @@ body{
     width: 358px;
     height: 98px;
     left: 350px;
-    top: 1342px;
+    top: 1320px;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -203,7 +201,7 @@ body{
     width: 396px;
     height: 52px;
     left: 350px;
-    top: 1495px;
+    top: 1470px;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -254,7 +252,7 @@ body{
 .img18{
     position: absolute;
     left: 510px;
-    top: 2170px;    
+    top: 2140px;    
 }
 
 .div6{
@@ -278,7 +276,7 @@ body{
     width: 468px;
     height: 98px;
     left: 950px;
-    top: 2050px;
+    top: 2030px;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
